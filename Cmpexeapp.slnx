@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Cmpexeapp.vcxproj" Id="4f29ca85-b98c-4fec-8268-d917898ff5c1" />
+</Solution>
